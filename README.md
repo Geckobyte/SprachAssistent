@@ -15,4 +15,3 @@ You can help me with your Ideas. Plese write me an Email or write me on [Twitter
 
 #### Contact me
 Email: geckobytedev@gmail.com
-Twitter: Geckobytedev
