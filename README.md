@@ -7,7 +7,7 @@ Hans is a virtual assistant written in Python
 ### Disclaimer:
 Development Phase! - May be unstable.
 
-### Development Team
+### Developer
 [Geckobyte](https://github.com/Geckobyte)
 
 #### Help us
